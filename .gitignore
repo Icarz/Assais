@@ -1,0 +1,10 @@
+/node_modules
+/.next
+/out
+/build
+*.tar.gz
+/_handoff
+.env*.local
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
