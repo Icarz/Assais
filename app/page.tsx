@@ -131,10 +131,10 @@ export default function Home() {
       </section>
 
       {/* ─────────────  EDITORIAL — THE ISLAND  ───────────── */}
-      <section className="editorial align-right">
+      <section className="editorial">
         <div
           className="ed-media"
-          style={{ backgroundImage: "url('/assets/horse-violet.jpg')" }}
+          style={{ backgroundImage: "url('/assets/horse-violet.jpg')", backgroundPosition: "right center" }}
           aria-hidden="true"
         />
         <div className="ed-copy reveal">
